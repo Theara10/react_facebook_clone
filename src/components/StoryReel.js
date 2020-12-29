@@ -30,6 +30,7 @@ function StoryReel() {
         image="https://i.redd.it/3kceooolcib51.jpg"
         title="Dyna Prak"
       />
+      
     </div>
   );
 }
